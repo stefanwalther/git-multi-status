@@ -19,5 +19,8 @@
   "main": "./index.js",
   "bin": {
     "mstat": "./bin/mstat.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1"
   }
 }
